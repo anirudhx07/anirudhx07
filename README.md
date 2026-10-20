@@ -128,26 +128,51 @@ My focus is practical: learn the fundamentals, build projects that demonstrate t
 
 ### Tools, DevOps & Workflow
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,vercel,arduino&perline=8" alt="Developer tools"/>
+<div align="center">
 
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab"/>
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" />
+</a>
+<a href="https://github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub" />
+</a>
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker" />
+</a>
+<a href="https://www.linux.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="Linux" />
+</a>
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="VS Code" />
+</a>
+<a href="https://www.postman.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="Postman" />
+</a>
+<a href="https://vercel.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="Vercel" />
+</a>
+<a href="https://www.arduino.cc/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="Arduino" />
+</a>
+
+<br/><br/>
+
+<a href="https://n8n.io/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"
+    height="35"
+    alt="n8n"
+  />
+</a>
+<a href="https://colab.research.google.com/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Google_Colab-Notebook-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"
+    height="35"
+    alt="Google Colab"
+  />
+</a>
 
 </div>
-
-<details>
-<summary><strong>🧩 How I think about the stack</strong></summary>
-
-- **Languages** are tools for expressing a solution—not a substitute for understanding the problem.
-- **Data tooling** helps inspect, clean, transform, and validate datasets before modelling.
-- **ML frameworks** help experiment with models; sound baselines and evaluation still matter.
-- **APIs and databases** connect models to applications and real workflows.
-- **Git, tests, documentation, and deployment** turn a notebook or demo into a maintainable project.
-
-Only keep the icons for tools you have used or are actively learning. A logo wall should represent real experience, not claim expertise by association.
-
-</details>
-
 ---
 
 ## 🚀 Featured Work
