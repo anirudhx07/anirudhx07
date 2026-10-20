@@ -3,8 +3,8 @@
 ║                    ANIRUDH • GITHUB PROFILE README                           ║
 ║                                                                              ║
 ║  SETUP CHECKLIST                                                             ║
-║  1. Replace EVERY occurrence of YOUR_USERNAME with your GitHub username.     ║
-║  2. Replace YOUR_LINKEDIN, YOUR_EMAIL, YOUR_PORTFOLIO, and project links.     ║
+║  1. Replace EVERY occurrence of anirudhx07 with your GitHub username.     ║
+║  2. Replace anirudhx07, anirudhkumar111211@gmail.com, anirudh-kumar-07.web.app, and project links.     ║
 ║  3. Edit the project cards so they point to real repositories.               ║
 ║  4. Remove any technology, achievement, metric, or project that isn't yours. ║
 ║  5. Some cards use third-party services; their uptime/rate limits can vary.   ║
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/anirudhx07">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,35:0f172a,70:172554,100:0f766e&text=ANIRUDH&fontColor=f8fafc&fontSize=64&fontAlignY=38&desc=AI%20%7C%20MACHINE%20LEARNING%20%7C%20SOFTWARE%20ENGINEERING&descAlignY=58&descSize=16&animation=fadeIn"
     alt="Anirudh — AI, Machine Learning, Software Engineering"
@@ -24,13 +24,13 @@
 
 <br/>
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=0f766e&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="https://github.com/anirudhx07">
+  <img src="https://komarev.com/ghpvc/?username=anirudhx07&style=for-the-badge&color=0f766e&label=PROFILE+VIEWS" alt="Profile views"/>
 </a>
-<a href="https://github.com/YOUR_USERNAME?tab=followers">
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&label=FOLLOWERS&color=172554" alt="GitHub followers"/>
+<a href="https://github.com/anirudhx07?tab=followers">
+  <img src="https://img.shields.io/github/followers/anirudhx07?style=for-the-badge&logo=github&label=FOLLOWERS&color=172554" alt="GitHub followers"/>
 </a>
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+<a href="https://github.com/anirudhx07?tab=repositories">
   <img src="https://img.shields.io/badge/Explore-My%20Repositories-0f766e?style=for-the-badge&logo=github" alt="Explore repositories"/>
 </a>
 
@@ -128,118 +128,80 @@ My focus is practical: learn the fundamentals, build projects that demonstrate t
 
 ### Tools, DevOps & Workflow
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,vercel,arduino&perline=8" alt="Developer tools"/>
 
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git" />
-</a>
-<a href="https://github.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="GitHub" />
-</a>
-<a href="https://www.docker.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker" />
-</a>
-<a href="https://www.linux.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="Linux" />
-</a>
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="VS Code" />
-</a>
-<a href="https://www.postman.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="Postman" />
-</a>
-<a href="https://vercel.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="Vercel" />
-</a>
-<a href="https://www.arduino.cc/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=arduino" height="60" alt="Arduino" />
-</a>
-
-<br/><br/>
-
-<a href="https://n8n.io/" target="_blank">
-  <img
-    src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"
-    height="35"
-    alt="n8n"
-  />
-</a>
-<a href="https://colab.research.google.com/" target="_blank">
-  <img
-    src="https://img.shields.io/badge/Google_Colab-Notebook-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"
-    height="35"
-    alt="Google Colab"
-  />
-</a>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab"/>
 
 </div>
+
+<details>
+<summary><strong>🧩 How I think about the stack</strong></summary>
+
+- **Languages** are tools for expressing a solution—not a substitute for understanding the problem.
+- **Data tooling** helps inspect, clean, transform, and validate datasets before modelling.
+- **ML frameworks** help experiment with models; sound baselines and evaluation still matter.
+- **APIs and databases** connect models to applications and real workflows.
+- **Git, tests, documentation, and deployment** turn a notebook or demo into a maintainable project.
+
+Only keep the icons for tools you have used or are actively learning. A logo wall should represent real experience, not claim expertise by association.
+
+</details>
+
 ---
 
-## 🚀 Featured Work
+## 🚀 Featured Projects
 
-> Replace the example repository names below with your actual public repositories. The cards are live links, so invalid repository names will show an error.
+The following are project areas I have been exploring. Use the repository link to find the current source code; replace it with a direct repository URL when the project repository is public.
 
-<div align="center">
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 NeuroScreen AI</h3>
+      <p><strong>Early neurological screening support</strong></p>
+      <p>An application concept exploring guided, non-invasive screening tasks and supervised ML for preliminary risk assessment.</p>
+      <p><strong>Focus:</strong> Flutter, Python, supervised ML, user experience.</p>
+      <p><a href="https://github.com/anirudhx07?tab=repositories">Explore repositories ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ InReal</h3>
+      <p><strong>Opportunity discovery and risk signals</strong></p>
+      <p>A platform concept to help students find opportunities and inspect warning signs in suspicious internship listings.</p>
+      <p><strong>Focus:</strong> Python, data collection, APIs, automation, explainable risk indicators.</p>
+      <p><a href="https://github.com/anirudhx07?tab=repositories">Explore repositories ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌦️ MeghNetra</h3>
+      <p><strong>Environmental and geospatial data exploration</strong></p>
+      <p>A project space for processing large scientific datasets and turning them into useful analytical outputs.</p>
+      <p><strong>Focus:</strong> Python, scientific data, data processing, visualization.</p>
+      <p><a href="https://github.com/anirudhx07?tab=repositories">Explore repositories ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Automation Experiments</h3>
+      <p><strong>Workflows, APIs, and AI-assisted tools</strong></p>
+      <p>Experiments connecting services and reducing repetitive work through structured workflows and integrations.</p>
+      <p><strong>Focus:</strong> n8n, APIs, Python, AI-agent workflows.</p>
+      <p><a href="https://github.com/anirudhx07?tab=repositories">Explore repositories ↗</a></p>
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/YOUR_USERNAME/NeuroScreen-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=NeuroScreen-AI&theme=transparent&hide_border=true" alt="NeuroScreen AI repository card"/>
-</a>
-<a href="https://github.com/YOUR_USERNAME/InReal">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=InReal&theme=transparent&hide_border=true" alt="InReal repository card"/>
-</a>
+<details>
+<summary><strong>📌 What I aim to document for each project</strong></summary>
 
-<a href="https://github.com/YOUR_USERNAME/MeghNetra">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=MeghNetra&theme=transparent&hide_border=true" alt="MeghNetra repository card"/>
-</a>
-<a href="https://github.com/YOUR_USERNAME/PROJECT-FOUR">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT-FOUR&theme=transparent&hide_border=true" alt="Project four repository card"/>
-</a>
+- The problem, target users, and intended outcome.
+- Features that are implemented versus planned.
+- Architecture and technology choices.
+- Installation instructions and a reproducible demo.
+- Testing, evaluation, known limitations, and future work.
+- Data provenance, privacy considerations, and security notes where relevant.
 
-</div>
+**Safety note:** NeuroScreen AI is a software project concept, not a substitute for professional medical evaluation. InReal risk indicators are signals, not proof of fraud.
 
-### 🧠 NeuroScreen AI — Early Neurological Screening
-
-**Concept:** An accessible screening-support application exploring how non-invasive tests and supervised machine learning can assist early risk assessment.
-
-- **Product direction:** guided screening workflow and understandable results.
-- **Possible modules:** voice, motor tasks, memory, and reaction-time assessments.
-- **Engineering focus:** data quality, model validation, privacy, and clear limitations.
-- **Important:** a prototype is not a medical diagnostic tool. Claims must match clinical validation and the actual implementation.
-
-`Flutter` · `Python` · `Supervised ML` · `Application Development`
-
-### 🛡️ InReal — Opportunity Discovery & Risk Signals
-
-**Concept:** A platform concept for helping students discover opportunities and assess warning signs in suspicious internship listings.
-
-- **Problem space:** fragmented listings, stale information, misleading offers, and fee-based scams.
-- **Product direction:** consolidate opportunities and present explainable risk indicators.
-- **Engineering focus:** source reliability, deduplication, evidence provenance, and transparent scoring.
-- **Important:** risk indicators are signals, not proof of fraud. Any score should explain its evidence and uncertainty.
-
-`Python` · `Web Data Collection` · `APIs` · `Automation` · `Risk Scoring`
-
-### 🌦️ MeghNetra — Environmental / Geospatial Data Exploration
-
-**Concept:** A project space for exploring environmental or geospatial datasets and turning large scientific data files into useful insights.
-
-- **Problem space:** large scientific datasets can be difficult to inspect and interpret.
-- **Product direction:** data ingestion, preprocessing, analysis, and visual outputs.
-- **Engineering focus:** reproducible pipelines, memory-aware processing, metadata, and validation.
-
-`Python` · `Scientific Data` · `Data Processing` · `Visualization`
-
-### 🧱 Project Four — Your Next Build
-
-Use this card for your next strongest project. Describe the user problem, what you built, the architecture, and what you learned. Replace the sample link above with its repository.
-
-**A strong project README should answer:**
-1. What problem does it solve?
-2. Who is it for?
-3. What actually works today?
-4. How does the architecture work?
-5. How can someone run or test it?
-6. What are its limitations and next steps?
+</details>
 
 ---
 
@@ -247,20 +209,20 @@ Use this card for your next strongest project. Describe the user problem, what y
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=transparent&custom_title=GitHub%20Overview" alt="GitHub overview statistics"/>
+<a href="https://github.com/anirudhx07">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=anirudhx07&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=transparent&custom_title=GitHub%20Overview" alt="GitHub overview statistics"/>
 </a>
-<a href="https://github.com/YOUR_USERNAME">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=10&hide_border=true&theme=transparent&custom_title=Language%20Distribution" alt="Most used repository languages"/>
+<a href="https://github.com/anirudhx07">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anirudhx07&layout=compact&langs_count=10&hide_border=true&theme=transparent&custom_title=Language%20Distribution" alt="Most used repository languages"/>
 </a>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=transparent&mode=weekly" alt="Contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=anirudhx07&hide_border=true&theme=transparent&mode=weekly" alt="Contribution streak"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=64748b&line=14b8a6&point=38bdf8&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anirudhx07&bg_color=00000000&color=64748b&line=14b8a6&point=38bdf8&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
 
 </div>
 
@@ -278,16 +240,17 @@ These widgets are provided by third-party services and can be rate-limited or te
 
 ---
 
-## 🐍 Contribution Garden
+## 🐍 Contribution Snake (Optional)
 
+This section is disabled until the GitHub Actions workflow has generated and published the SVG. That prevents a broken-image icon from appearing on the profile.
+
+After configuring [Platane/snk](https://github.com/Platane/snk) and confirming the SVG exists in the `output` branch, add this image:
+
+<!--
 <div align="center">
-
-<!-- This image requires the contribution-snake GitHub Actions workflow described in the setup guide. -->
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Animated contribution snake"/>
-
+  <img src="https://raw.githubusercontent.com/anirudhx07/anirudhx07/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%"/>
 </div>
-
-If this image is broken, the workflow has not generated and published the SVG yet. Follow the setup guide in the profile repository before keeping this section.
+-->
 
 ---
 
@@ -351,13 +314,13 @@ This roadmap is a direction, not a claim that every item is already mastered.
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+<a href="https://github.com/anirudhx07?tab=repositories">
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-0f766e?style=for-the-badge&logo=python&logoColor=white" alt="AI and ML focus"/>
 </a>
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+<a href="https://github.com/anirudhx07?tab=repositories">
   <img src="https://img.shields.io/badge/Approach-Build%20%7C%20Test%20%7C%20Learn-172554?style=for-the-badge&logo=github" alt="Build test learn"/>
 </a>
-<a href="https://github.com/YOUR_USERNAME?tab=repositories">
+<a href="https://github.com/anirudhx07?tab=repositories">
   <img src="https://img.shields.io/badge/Status-Always%20Learning-334155?style=for-the-badge&logo=bookstack&logoColor=white" alt="Always learning"/>
 </a>
 
@@ -422,16 +385,16 @@ If you have a concrete problem, a thoughtful technical idea, or a project where 
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+<a href="https://www.linkedin.com/in/anirudhx07/">
   <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/anirudhx07">
   <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:anirudhkumar111211@gmail.com">
   <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://YOUR_PORTFOLIO">
+<a href="https://anirudh-kumar-07.web.app">
   <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 
