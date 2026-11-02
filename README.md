@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Anirudh Kumar Banner"/>
+<img src="./assets/Banner.png" width="100%" alt="Anirudh Kumar Banner"/>
 
 <a href="https://github.com/anirudhx07">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=760&lines=%24+python+train.py+--epochs+%E2%88%9E;loss%3A+curiosity+%E2%86%93+%7C+accuracy%3A+shipping+%E2%86%91;Understand+%E2%86%92+Build+the+simplest+useful+thing+%E2%86%92+Iterate;Not+a+demo.+A+working+tool." alt="Typing animation"/>
