@@ -169,6 +169,12 @@ git  github  docker  linux  vscode  postman  vercel  n8n  colab  arduino
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anirudhx07&bg_color=0d1117&color=c9d1d9&line=22d3ee&point=e6edf3&area=true&area_color=4c1d95&hide_border=true&custom_title=Training%20Curve%20%C2%B7%20Contributions" width="100%" alt="Contribution graph"/>
 
+<br/><br/>
+
+<a href="https://open.spotify.com">
+  <img src="https://anirudhx07.vercel.app/api/now-playing" alt="Anirudh's Spotify Now Playing" />
+</a>
+
 </div>
 
 <details>
