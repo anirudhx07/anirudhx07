@@ -150,20 +150,6 @@ git  github  docker  linux  vscode  postman  vercel  n8n  colab  arduino
 
 ---
 
-## ⚙️ Hyperparameters
-
-| Parameter | Value | In practice |
-|:--|:--|:--|
-| `problem_first` | `True` | Define the user, constraints and success criteria before picking tools |
-| `baseline_before_model` | `True` | Start simple, then earn the complexity |
-| `eval_mode` | `"honest"` | Proper metrics, validation data, error analysis |
-| `explain_decisions` | `True` | Document assumptions, limits and trade-offs |
-| `secrets_in_git` | `0` | Minimize sensitive data, keep keys out of source control |
-| `reproducible` | `True` | Pinned dependencies, clear run instructions |
-| `ship_value` | `> features` | A working product beats a pile of unfinished ideas |
-
----
-
 ## 📊 Metrics
 
 <div align="center">
