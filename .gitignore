@@ -1,8 +1,0 @@
-# Local scripts and tokens (DO NOT COMMIT)
-get_token.py
-.env
-.env*.local
-
-# Node & Build artifacts
-node_modules/
-.vercel/
