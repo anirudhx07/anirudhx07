@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/Banner.png" width="100%" alt="Anirudh Kumar - Engineering Portfolio Banner" />
+  <img src="assets/Banner.png" width="100%" alt="Anirudh Kumar — AI/ML Engineer" />
 </div>
 
 <br/>
