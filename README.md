@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0d1117,50:4c1d95,100:0891b2&text=anirudh.kumar&fontColor=e6edf3&fontSize=64&fontAlignY=42&desc=model%20card%20%C2%B7%20v2026.10%20%C2%B7%20B.Tech%20CSE%20%28AI%20%26%20ML%29&descAlignY=64&descSize=18" width="100%" alt="anirudh.kumar banner"/>
+<img src="./assets/banner.svg" width="100%" alt="anirudh.kumar banner"/>
 
 <a href="https://github.com/anirudhx07">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=760&lines=%24+python+train.py+--epochs+%E2%88%9E;loss%3A+curiosity+%E2%86%93+%7C+accuracy%3A+shipping+%E2%86%91;Understand+%E2%86%92+Build+the+simplest+useful+thing+%E2%86%92+Iterate;Not+a+demo.+A+working+tool." alt="Typing animation"/>
@@ -231,6 +231,6 @@ curl -X POST "https://anirudh-kumar-07.web.app" \
 exit code 0 · thanks for stopping by · keep building
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:4c1d95,100:0d1117&height=120&section=footer" width="100%" alt="Footer"/>
+<img src="./assets/footer.svg" width="100%" alt="Footer"/>
 
 </div>
