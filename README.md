@@ -103,6 +103,30 @@ Computer Science undergraduate specializing in **Artificial Intelligence & Machi
 
 ---
 
+## GitHub Activity
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td valign="top" width="33%">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=anirudhx07&show_icons=true&include_all_commits=true&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0d1117" width="100%" alt="GitHub Statistics" />
+      </td>
+      <td valign="top" width="33%">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=anirudhx07&layout=compact&langs_count=6&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0d1117" width="100%" alt="Top Languages" />
+      </td>
+      <td valign="top" width="33%">
+        <img src="https://streak-stats.demolab.com/?user=anirudhx07&theme=dark&hide_border=true&background=0d1117&stroke=1e293b&ring=38bdf8&fire=38bdf8&currStreakNum=f8fafc&sideNums=94a3b8&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b" width="100%" alt="Contribution Streak" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph?username=anirudhx07&bg_color=0d1117&color=94a3b8&line=38bdf8&point=f8fafc&area=true&area_color=1e293b&hide_border=true&custom_title=Contributions%20Over%20Time" width="100%" alt="Contribution Activity Graph" />
+</div>
+
+---
+
 ## Contact & Connect
 
 Feel free to connect regarding machine learning engineering, software development opportunities, or open-source collaboration:
