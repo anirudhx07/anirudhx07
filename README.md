@@ -22,18 +22,6 @@
 
 </div>
 
-<br/>
-
-```console
-$ ./boot_anirudh.sh
-[ OK ] loading base weights ........ B.Tech CSE (AI & ML)
-[ OK ] mounting curiosity .......... always on
-[ OK ] attaching toolchain ......... Python · APIs · automation · a lot of coffee
-[ OK ] checking priorities ......... ship > polish > perfect
-[WARN] sleep_scheduler ............. deprecated, no replacement planned
-[ OK ] ready. waiting for a problem worth solving_
-```
-
 ---
 
 ## 🪪 Model Card
