@@ -151,7 +151,9 @@ function renderCard({ statusText, title, artist, imageBase64, isPlaying }) {
 
 export default async function handler(req, res) {
   res.setHeader("Content-Type", "image/svg+xml; charset=utf-8");
-  res.setHeader("Cache-Control", "public, max-age=0, must-revalidate, s-maxage=30");
+  res.setHeader("Cache-Control", "no-cache, no-store, must-revalidate, max-age=0, s-maxage=0");
+  res.setHeader("Pragma", "no-cache");
+  res.setHeader("Expires", "0");
 
   try {
     const tokenData = await getAccessToken();
