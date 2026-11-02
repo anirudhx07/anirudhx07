@@ -194,29 +194,7 @@ These widgets come from third-party services, so they can be rate-limited or bri
 
 ---
 
-## 🗺️ Changelog & Roadmap
-
-```diff
-+ v1.0  CS foundations       DSA · OOP · DBMS · OS · Networking · Git
-+ v1.5  Data & ML basics     NumPy · Pandas · statistics · baselines · metrics
-! v2.0  Applied AI systems   model serving · APIs · data pipelines · LLM tools   <- currently here
-- v3.0  Production-ready     tests · Docker · deployment · monitoring · user feedback
-- v4.0  Open-source impact   contribute upstream, mentor, build in public
-```
-
-*A direction, not a claim that every milestone has been reached.*
-
----
-
-## 📡 Inference Endpoint
-
-Looking to collaborate on applied ML, AI-assisted tools, developer utilities, or hackathon prototypes that can grow into reliable products? Send a request.
-
-```bash
-curl -X POST "https://anirudh-kumar-07.web.app" \
-     -d '{"intent": "collaborate", "topic": "AI / ML / automation"}'
-# response: 200 OK (usually within a day)
-```
+## 📬 Contact & Connect
 
 <div align="center">
 
