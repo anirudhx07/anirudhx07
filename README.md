@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="D:\anirudhx07\assets\Banner.png" width="100%" alt="Anirudh Kumar — AI/ML Engineer" />
+  <img src="https://raw.githubusercontent.com/anirudhx07/anirudhx07/main/assets/Banner.png" width="100%" alt="Anirudh Kumar — AI/ML Engineer" />
 </div>
 
 <br/>
