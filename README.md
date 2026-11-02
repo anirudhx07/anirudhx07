@@ -177,13 +177,6 @@ git  github  docker  linux  vscode  postman  vercel  n8n  colab  arduino
 
 </div>
 
-<details>
-<summary><strong>🔎 Reading the metrics</strong></summary>
-
-These widgets come from third-party services, so they can be rate-limited or briefly unavailable. Language stats estimate code volume, not skill. Private activity may not be counted. Treat the numbers as a rough signal, not a measure of ability.
-
-</details>
-
 ---
 
 ## 📬 Contact & Connect
